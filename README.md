@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @webdevmahdi
 - 👀 I’m interested in Wev development
-- 🌱 I’m currently learning all about web development
+- 🌱 I’m currently learning all about os development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
 go to: fiverr.com/mahdihasan560
