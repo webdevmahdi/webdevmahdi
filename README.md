@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @webdevmahdi
-- 👀 I’m interested in Wev development
+- 👋 Hi, I’m @Mahdi
+- 👀 I’m interested in Web development
 - 🌱 I’m currently learning all about os development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me? 
