@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mahdi
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning all about os development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning all about app development
+- 💞️ I’m looking to collaborate with a back end developer
 - 📫 How to reach me? 
 go to: fiverr.com/mahdihasan560
 
