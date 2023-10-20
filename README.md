@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<video width="auto" height="auto" autoplay>
+<video width="500" height="360" autoplay>
   <source src="https://drive.google.com/file/d/1-AFZ3ThMSo4OFCA-Ps2F7MY9884svHi3/view?usp=share_link" type="video/mp4">
 </video>
 
