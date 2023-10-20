@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-
-
-[autoplay]https://github.com/webdevmahdi/webdevmahdi/assets/97161462/c485e9dd-6c5d-4b7d-b130-c5b72351c8d6
-
+<img src="https://drive.google.com/file/d/1pm6qsi1aYK55HhMXSu1qMpRmuU8lGU4o/view?usp=share_link"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevmahdi&label=Profile%20views&color=0e75b6&style=flat" alt="webdevmahdi" /> </p>
 
