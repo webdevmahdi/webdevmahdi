@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-<img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg"></img>
+<video width="auto" height="auto" autoplay>
+  <source src="https://drive.google.com/file/d/1-AFZ3ThMSo4OFCA-Ps2F7MY9884svHi3/view?usp=share_link" type="video/mp4">
+</video>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevmahdi&label=Profile%20views&color=0e75b6&style=flat" alt="webdevmahdi" /> </p>
 
