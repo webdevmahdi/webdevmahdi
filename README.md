@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
-https://i.postimg.cc/QMLmrrbH/ezgif-com-video-to-gif-1.gif
+
 
 <img src='https://i.postimg.cc/hXrT96NB/ezgif-com-video-to-gif-1.gif' border='0' alt='ezgif-com-video-to-gif-1'/>
 
