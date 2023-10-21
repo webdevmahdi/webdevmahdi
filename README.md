@@ -3,7 +3,7 @@
 
 
 
-<img src='https://i.postimg.cc/hXrT96NB/ezgif-com-video-to-gif-1.gif' border='0' alt='ezgif-com-video-to-gif-1'/>
+<img style="width:900px; height:auto; margin: 20px" src='https://i.postimg.cc/hXrT96NB/ezgif-com-video-to-gif-1.gif' border='0' alt='ezgif-com-video-to-gif-1'/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevmahdi&label=Profile%20views&color=0e75b6&style=flat" alt="webdevmahdi" /> </p>
 
