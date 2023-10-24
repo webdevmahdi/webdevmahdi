@@ -55,7 +55,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mahdi hasan&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
