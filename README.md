@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A serious frontend developer from Bangladesh</h3>
 
 
 
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **MongoDB, SQL, Prisma and PostgreSQL**
 
-- 💬 Ask me about **HTML, CSS, React, Express.js and Node.js (MERN)**
+- 💬 Ask me about **HTML, CSS, React, Express.js, and Node.js (MERN)**
 
 - 📫 How to reach me **mahdihasan01705259@gmail.com**
 
