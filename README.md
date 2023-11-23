@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">A serious frontend developer from Bangladesh</h3>
-<h3 align="center">Right now I'm building my own company. My goal is to eligible my company to make $1M revenue per month in under 1 year </h3>
+<h3 align="center">Right now I am building my own company. My goal is to qualify my company to earn $1M per month in less than 1 year</h3>
 
 
 
