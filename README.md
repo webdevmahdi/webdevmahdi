@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi Hasan</h1>
 <h3 align="center">A serious frontend developer from Bangladesh</h3>
+<h3 align="center">Write now I'm working for my own company</h3>
+
 
 
 
