@@ -36,7 +36,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevmahdi&show_icons=true&locale=en" alt="webdevmahdi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevmahdi&" alt="webdevmahdi" /></p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=webdevmahdi)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
 <br />
 <br />
