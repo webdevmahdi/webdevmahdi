@@ -42,6 +42,4 @@
 <br />
 <br />
 <br />
-# 💫 About Me:
-🔭 I’m currently working on Blaze<br><br>🌱 I’m currently learning MongoDB, SQL, Prisma and PostgreSQL<br><br>💬 Ask me about HTML, CSS, React, Express.js and Node.js (MERN)<br><br>📫 How to reach me mahdihasan01705259@gmail.com
 
