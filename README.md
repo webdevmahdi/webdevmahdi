@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=webdevmahdi&label=Profile%20views&color=0e75b6&style=flat" alt="webdevmahdi" /> </p>
 
-<a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.svg" width="200" alt="Mahdi's dev card" /></a>
+<a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.svg" width="500" alt="Mahdi's dev card" /></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webdevmahdi&theme=dark_lover&theme=onedark" alt="webdevmahdi" /></a> </p>
 
