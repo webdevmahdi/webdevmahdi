@@ -37,9 +37,9 @@
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevmahdi&show_icons=true&locale=en&layout=compact" alt="webdevmahdi" /></p>
 
-<a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.svg" width="400" alt="Mahdi's dev card" /></a>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevmahdi&show_icons=true&locale=en" alt="webdevmahdi" /></p>
 
+<a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.svg" width="400" alt="Mahdi's dev card" /></a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevmahdi&" alt="webdevmahdi" /></p>
 <br />
 <br />
