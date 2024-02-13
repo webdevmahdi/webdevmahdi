@@ -39,7 +39,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webdevmahdi&show_icons=true&locale=en" alt="webdevmahdi" /></p>
   
-<p style="display:none"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevmahdi&" alt="webdevmahdi" /></p>
+<p display="none"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webdevmahdi&" alt="webdevmahdi" /></p>
 <a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.svg" width="200" alt="Mahdi's dev card" /></a>
 <br />
 <br />
