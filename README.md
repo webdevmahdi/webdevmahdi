@@ -28,7 +28,7 @@
 <a href="https://instagram.com/xs_mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xs_mahdi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/productive coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="productive coder" height="30" width="40" /></a>
 </p>
-<a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.png type=default&r=na6" width="356" alt="Mahdi's dev card" /></a>
+<a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.png" width='500px' alt="Mahdi's dev card" /></a>
 <br />
 <h3 align="left">Languages and Tools:</h3>
 
