@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/mahdi-hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi-hasan" height="30" width="40" /></a>
 <a href="https://fb.com/xs.mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xs.mahdi" height="30" width="40" /></a>
-<a href="https://instagram.com/xs_mahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xs_mahdi" height="30" width="40" /></a>
+<a href="https://instagram.com/iambeingmahdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xs_mahdi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/productive coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="productive coder" height="30" width="40" /></a>
 </p>
 <a href="https://app.daily.dev/xs_mahdi"><img src="https://github.com/webdevmahdi/webdevmahdi/blob/main/devcard.png" width='500px' alt="Mahdi's dev card" /></a>
