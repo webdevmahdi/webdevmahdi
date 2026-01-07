@@ -3,7 +3,9 @@
 <h3 align="center">Right now I am building my own company. <br />My goal is to qualify my company to earn $1M per month in less than 1 year.</h3>
 
 
-
+<div align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=webdevmahdi&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div>
 
 <img style="width:880px; margin: 20px; height:500px" src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Q5N2xjNmJibjgzamNseXo4Z3UyaWE2OGx4ZTRibmNrNnI3OTV3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' border='0' alt='Mahdi is coding' />
 
